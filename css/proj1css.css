@@ -6,7 +6,7 @@ body
 {
  padding-top: 100px;
  height: 99vh;
- background-image: url("images/header.jpg");
+ background-image: url("header.jpg");
  background-repeat: no-repeat;
  background-size: cover;
  background-color: aqua;
